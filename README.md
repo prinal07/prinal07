@@ -1,5 +1,8 @@
 # 💫 About Me:
-Undergraduate Computer Science Student.<br>Always working on software application ideas...<br>Will be working on AI/ML related projects soon...
+Currently in my final year of a Computer Science degree, I'm passionate about how technology can transform our daily
+lives and eager to work in a fast-paced environment to learn, grow and make an impact. 
+
+<br> Looking for full-time/graduate roles from August 2025<br>
 
 
 ## 🌐 Socials:
