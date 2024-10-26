@@ -1,5 +1,5 @@
 # 💫 About Me:
-Undergraduate Computer Science Student.<br>Always working on software application ideas...<br>Will be working on AI/ML related projects soon...<br><br> Looking for placements starting from Sept. 2023<br><br>
+Undergraduate Computer Science Student.<br>Always working on software application ideas...<br>Will be working on AI/ML related projects soon...
 
 
 ## 🌐 Socials:
